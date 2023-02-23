@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;500;600;900&display=swap");
+
+body {
+  background-color: #d2d2c1;
+  /* min-height: 100vh; */
+  font-size: 18px;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #000000;
+}
